@@ -45,7 +45,7 @@ A maioria dos projetos são autocontidos. Para executar um exemplo específico:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/thyago-sousa/estudos-java.git](https://github.com/thyago-sousa/estudos-java.git)
+    git clone https://github.com/thyago-sousa/estudos-java.git
     ```
 2.  Navegue até a pasta do projeto desejado:
     ```bash
